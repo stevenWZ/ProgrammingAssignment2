@@ -1,4 +1,4 @@
-## 
+## The following functions can cache the inverse of matrix
 
 ## this function can help to creat a special "matrix" 
 ##cache that containing set and get matrix together with
